@@ -1,6 +1,6 @@
 <template>
 <div class="container">
-  <vue-particles class="background" color="#FF3232" :particleOpacity="0.75" :particlesNumber="200" shapeType="circle" :particleSize="3" linesColor="#FF3232" :linesWidth="0.55" :lineLinked="true" :lineOpacity="0.75" :linesDistance="75" :moveSpeed="3" :hoverEffect="false"
+  <vue-particles class="background" color="#660000" :particleOpacity="0.75" :particlesNumber="200" shapeType="circle" :particleSize="3" linesColor="#660000" :linesWidth="0.55" :lineLinked="true" :lineOpacity="0.75" :linesDistance="75" :moveSpeed="3" :hoverEffect="false"
     :clickEffect="false" />
   <br>
   <br>
